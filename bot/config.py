@@ -3,11 +3,11 @@ class config:
     APP_ID = "2791986"
     API_HASH = "479e102b752a45e3344ca27155ae9ce5"
     DATABASE_URL = "postgres://viucnzakhmmput:758e875884fe820820bb82bfa57bd6f760f113daf00ee2555e4a05b3941e99db@ec2-3-233-43-103.compute-1.amazonaws.com:5432/d42f8sorddcjo8"
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = "908947712" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/SkiQWKJ5jDFfwddx"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "http://60686911755-g4ma4piulerqm0tjqp0096cmc13bbrt4.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "0smbgUCDUVmuU0kjUh_DUetM"
 
 
 class BotCommands:
